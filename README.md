@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ankitarath900@gmail.com**
 
-- ⚡ Fun fact **I am an engineer by profession,but my soual thrives in world of art,whether it's dancing,singing,painting,or capturing moments through my lens!**
+- ⚡ Fun fact **I am an engineer by profession,but my soul thrives in world of art,whether it's dancing,singing,painting,or capturing moments through my lens!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
