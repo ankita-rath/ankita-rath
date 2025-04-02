@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankita rath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **devops**
+- 🔭 I’m currently working on **devops** **Datascience** **AI/ML**  **UI/UX** 
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **kubernetes** **Azure**
 
-- 💬 Ask me about **android**
+- 💬 Ask me about **android** **Python** **HTML**
 
 - 📫 How to reach me **ankitarath900@gmail.com**
 
